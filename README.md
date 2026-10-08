@@ -2,7 +2,7 @@
 
 A Bangla NLP project that classifies news articles into four categories: **sports, national, international, entertainment**. Built with TF-IDF and classical machine learning, and deployed as a Streamlit web app.
 
-🔗 **Live demo:** _(add your Streamlit link here)_
+🔗 Live demo: https://bangla-news-classifier.streamlit.app/
 
 ## Results
 
