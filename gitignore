@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# dataset ta bhari, GitHub e na dileo cholbe. Model file (models/*.joblib) ta push korbe, Streamlit er lagbe.
+data/*.csv
+INTERVIEW_NOTES.md
